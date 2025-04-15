@@ -11,7 +11,7 @@ Hosted at:
 
 | Group ID     | Artifact ID | Version   | Type |
 |--------------|-------------|-----------|------|
-| `isel.leic`  | [usbPort](https://github.com/ISEL-GT/ISEL-GT-MAVEN/master/README.md#usb-port)  | `1.0.0`   | `.jar` |
+| `isel.leic`  | [usbPort](https://github.com/ISEL-GT/ISEL-GT-MAVEN/tree/master?tab=readme-ov-file#usb-port)  | `1.0.0`   | `.jar` |
 
 ---
 

@@ -1,4 +1,4 @@
-# 📦 ISEL-GT Maven Repository
+# 📦 ISEL GT Maven Repository
 
 This is a GitHub Pages based custom Maven repository for distributing private or internal Java/Kotlin artifacts.
 

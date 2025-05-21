@@ -36,5 +36,13 @@ Hosted at:
 </dependency>
 ```
 
+### rouletteGame
+```xml
+<dependency>
+  <groupId>isel.leic</groupId>
+  <artifactId>rouletteGame</artifactId>
+  <version>1.0.0</version>
+</dependency>
+```
 
 

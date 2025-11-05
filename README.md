@@ -57,7 +57,7 @@ Hosted at:
 ```
 
 ### bluecove
-```
+```xml
 <dependency>
     <groupId>javax</groupId>
     <artifactId>bluecove</artifactId>
